@@ -1,0 +1,20 @@
+.home-section{
+	min-height: 85vh;
+	background-image: url('uuo.jpg');
+	background-size: cover;
+	background-position: center;
+}
+
+
+.home-section .nav ul{
+	List-style: none;
+	margin:0;
+	padding:0;
+}
+.home-section .nav ul li{
+	display: inline-block;
+}
+.row{
+	display: flex;
+	flex-wrap: wrap;
+}
